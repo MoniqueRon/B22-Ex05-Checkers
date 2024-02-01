@@ -1,0 +1,14 @@
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\obj\Debug\CheckersUI.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\obj\Debug\CheckersUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\obj\Debug\CheckersUI.GameForm.resources
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\obj\Debug\CheckersUI.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\obj\Debug\CheckersUI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\bin\Debug\B22 Ex05 Monique 208542944 Inbar 315976647.exe.config
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\bin\Debug\B22 Ex05 Monique 208542944 Inbar 315976647.exe
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\bin\Debug\B22 Ex05 Monique 208542944 Inbar 315976647.pdb
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\bin\Debug\CheckersLogic.dll
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\bin\Debug\CheckersLogic.pdb
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\bin\Debug\CheckersLogic.dll.config
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\obj\Debug\CheckersUI.csproj.CopyComplete
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\obj\Debug\B22 Ex05 Monique 208542944 Inbar 315976647.exe
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\B22 Ex05 Monique 208542944 Inbar 315976647\obj\Debug\B22 Ex05 Monique 208542944 Inbar 315976647.pdb

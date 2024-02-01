@@ -1,0 +1,7 @@
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\CheckersLogic\bin\Debug\CheckersLogic.dll.config
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex05 Monique 208542944 Inbar 315976647\CheckersLogic\obj\Debug\CheckersLogic.pdb
